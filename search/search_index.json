@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "iMkDocs\n\n\nJust a template for doc site supported by \nMkDocs\n.\n\n\n\n\nBEAUTY\n\n\n\n\nSWEET_BLONDE\n\n\n\n\nNATIVE_AMERICAN_GIRL\n\n\n\n\nGIRL_IN_SWIMSUIT\n\n\n\n\nGIRL_IN_BED\n\n\n\n\nSTUDENT", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#imkdocs", 
+            "text": "Just a template for doc site supported by  MkDocs .", 
+            "title": "iMkDocs"
+        }, 
+        {
+            "location": "/#beauty", 
+            "text": "", 
+            "title": "BEAUTY"
+        }, 
+        {
+            "location": "/#sweet_blonde", 
+            "text": "", 
+            "title": "SWEET_BLONDE"
+        }, 
+        {
+            "location": "/#native_american_girl", 
+            "text": "", 
+            "title": "NATIVE_AMERICAN_GIRL"
+        }, 
+        {
+            "location": "/#girl_in_swimsuit", 
+            "text": "", 
+            "title": "GIRL_IN_SWIMSUIT"
+        }, 
+        {
+            "location": "/#girl_in_bed", 
+            "text": "", 
+            "title": "GIRL_IN_BED"
+        }, 
+        {
+            "location": "/#student", 
+            "text": "", 
+            "title": "STUDENT"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "About \niMkDocs\n\n\nSupport LaTeX by MathJax\n\n\nTo support LaTeX, I use \nMathJax\n with the following code:\n\n\nscript type=\ntext/x-mathjax-config\n\n  MathJax.Hub.Config({\n    tex2jax: {\n      inlineMath: [['$','$'], ['\\\\(','\\\\)']],\n      processEscapes: true\n    }\n  });\n\n/script\n\n\n\nscript type=\ntext/javascript\n src=\nhttps://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML\n/script\n\n\n\n\n\nThe effect is as the follow:\n\n\nEuler's Identity\n: $e^{i\\pi}+1=0$\n\n\nScenery\n\n\nCHENSHAN\n\n\n\n\nTHOUSAND_ISLAND_LAKE\n\n\n\n\nEVENING_ROADSIDE", 
+            "title": "About"
+        }, 
+        {
+            "location": "/about/#about-imkdocs", 
+            "text": "", 
+            "title": "About iMkDocs"
+        }, 
+        {
+            "location": "/about/#support-latex-by-mathjax", 
+            "text": "To support LaTeX, I use  MathJax  with the following code:  script type= text/x-mathjax-config \n  MathJax.Hub.Config({\n    tex2jax: {\n      inlineMath: [['$','$'], ['\\\\(','\\\\)']],\n      processEscapes: true\n    }\n  }); /script  script type= text/javascript  src= https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML /script   The effect is as the follow:  Euler's Identity : $e^{i\\pi}+1=0$", 
+            "title": "Support LaTeX by MathJax"
+        }, 
+        {
+            "location": "/about/#scenery", 
+            "text": "", 
+            "title": "Scenery"
+        }, 
+        {
+            "location": "/about/#chenshan", 
+            "text": "", 
+            "title": "CHENSHAN"
+        }, 
+        {
+            "location": "/about/#thousand_island_lake", 
+            "text": "", 
+            "title": "THOUSAND_ISLAND_LAKE"
+        }, 
+        {
+            "location": "/about/#evening_roadside", 
+            "text": "", 
+            "title": "EVENING_ROADSIDE"
+        }
+    ]
+}
