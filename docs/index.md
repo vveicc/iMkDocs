@@ -1,4 +1,8 @@
-# Welcome to iMkDocs
+# iMkDocs
+
+Just a template for doc site supported by [MkDocs](https://www.mkdocs.org).
+
+---
 
 ## BEAUTY
 
