@@ -1,0 +1,19 @@
+site_name: iMkDocs
+
+repo_url: https://github.com/vveicc/iMkDocs
+
+theme:
+  name: mkdocs
+  custom_dir: itheme/mkdocs
+
+pages:
+  - Home: index.md
+  - About: about.md
+
+extra_css:
+  - css/extra.css
+
+# copyright: 以梦为马，不负韶华！
+
+plugins:
+  - search
